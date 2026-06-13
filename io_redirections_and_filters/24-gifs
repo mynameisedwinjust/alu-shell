@@ -1,2 +1,0 @@
-#!/bin/bash
-find . -type f -name "*.gif" -printf "%f\n" | while read f; do b="${f%.gif}"; echo "${b:-.gif}"; done | sort -fi
