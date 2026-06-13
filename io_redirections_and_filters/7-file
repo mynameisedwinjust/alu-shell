@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 -c "s=\"\\\\*\\\\\\'\\\"Best School\\\"\\\\\\'\\\\\\\\*\\\\\\$\\\\?\\\\*\\\\*\\\\*\\\\*\\\\*\\\\:)\";open(s,'w').write('Best School\n')"
+python3 .helper.py
